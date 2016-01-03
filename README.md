@@ -1,18 +1,16 @@
-AngularJS-Learning
+AngularJS Learning Resources
 ==================
 
-NOTE: As of July 20, 2015, there is a [new repo for collecting links to Angular 2] (https://github.com/jmcunningham/AngularJS2-Learning). This list is barebones at the moment, so feel free to start adding links via PRs :)
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
-A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Feel free to submit a pull request if you have some links/resources to add. Also, I try to verify that the articles below have some real content (i.e. aren't 2 paragraph blog posts with little information) to ensure I'm not listing "fluff" pieces. If you have an idea for a better way to organize these links, please let me know. As I find similar posts in the "General Topics" section, I will break them out into their own categories.
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
 
-I also blog about Angular and JavaScript topics at [my blog] (http://www.jmcunningham.net).
-
-NOTE: LINKS PRECEDED WITH A ** DISCUSS NEW STUFF IN ANGULAR 1.3. Google's post announcing the release of 1.3.0 is [here] (http://angularjs.blogspot.com/2014/10/angularjs-130-superluminal-nudge.html). And the [migration guide] (https://docs.angularjs.org/guide/migration#migrating-from-1-2-to-1-3) from 1.2 to 1.3.
-
-NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All links will be 1.2 and above.
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
 ### Table of Contents
-[Books](#books)
+[Books](#books) 
 [Videos](#videos)
 [Courses](#courses)
 [Help](#help)
