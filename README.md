@@ -104,104 +104,136 @@ AngularJS Learning Resources
 * [Treehouse Tutorial](http://teamtreehouse.com/library/angularjs) - Paid
 * [Creating a Quiz with AngularJS](http://www.lynda.com/AngularJS-tutorials/Creating-Quiz-AngularJS/373557-2.html) - Paid
 * [Angular Routing In-depth](http://www.pluralsight.com/courses/angular-routing-in-depth) - Paid
-
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angularjs Training">Angularjs Training</a>
 ## Courses
 
 * [AngularJS for the Real World - Learn by creating a WebApp](https://www.udemy.com/angularjs-for-the-real-world-learn-to-create-a-webapp/?couponCode=gitdev19A) - 6 hrs video  + source code (Paid 85% discount)
 * [The Angular Course - Launch a full product with AngularJS](https://www.angularcourse.com) - Over 7 hrs of HD video (Paid)
 * [AngularJS Tutorial - Learn Angular by building a Gmail clone](http://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone) – Mini AngularJS course with video
+* * <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angularjs Training">Angularjs Training</a>
 * [AngularJS JumpStart with Dan Wahlin] (https://www.udemy.com/angularjs-jumpstart/?sl=E0EYdlw9RBMALEwzBwZX)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angular.js Course">Angular.js Course</a>
 * [Tuts+: Hands-on Angular] (https://tutsplus.com/course/hands-on-angular/)
 * [Code School Shaping Up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 * [Lynda Up and Running with AngularJS](http://www.lynda.com/AngularJS-tutorials/Up-Running-AngularJS/154414-2.html)
 * [Codecademy AngularJs](http://www.codecademy.com/courses/javascript-advanced-en-2hJ3J/0/1)
 * [Learn and Understand AngularJS](https://www.udemy.com/learn-angularjs/?couponCode=GH19)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angularjs Training">Angularjs Training</a>
 * [Pluralsight: AngularJS Patterns: Clean Code] (http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
 * [Pluralsight: AngularJS Line of Business Applications] (http://www.pluralsight.com/courses/angularjs-line-of-business-applications)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angular.js Course">Angular.js Course</a>
 * [Building Mobile Apps With the Ionic Framework and AngularJS] (http://www.pluralsight.com/courses/building-mobile-apps-ionic-framework-angularjs)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angular.js Course">Angular.js Course</a>
 * [Thinkster: AngularJS Tutorial: Learn to Build Modern Web Apps with MEAN](https://thinkster.io/mean-stack-tutorial/)
 * [Thinkster: Building Web Applications with Django and AngularJS](https://thinkster.io/django-angularjs-tutorial/)
 * [Thinkster: Building Web Applications with Rails and AngularJS](https://thinkster.io/angular-rails/)
 * [Thinkster: Learn to Build a Real-Time Reddit Clone with Firebase and AngularJS](https://thinkster.io/learn-to-build-realtime-webapps/)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angularjs Online Training">Angularjs Online Training</a>
 * [Thinkster: Mastering the Ionic Framework](https://thinkster.io/ionic-framework-tutorial/)
 * [**AngularJS Tutorial - Learn AngularJS in 30 minutes](http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/)
 * [AngularJS Tutorial - W3Schools](http://www.w3schools.com/angular/default.asp)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angularjs Online Training">Angularjs Online Training</a>
 * [Learn Angular](http://www.learn-angular.org/)
 * [Tagtree Angular Course](http://tagtree.io/courses/angular)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angularjs Training in Chennai">Angularjs Training in Chennai</a> 
 
 ## Curation
 * [AngularJS Content Curation for 7 Days + Demo](http://angularjs.runastartup.com)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angularjs Training in Chennai">Angularjs Training in Chennai</a> 
 * [Angular-js.in | Curated list of angular directives](http://angular-js.in/)
 
 ## Help
 * [StackOverflow] (http://stackoverflow.com/questions/tagged/angularjs)
 * [AngularJS Mailing List (Google Groups)] (http://groups.google.com/group/angular)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angularjs Course">Angularjs Course</a>
 * [Chatroom (Browser-based IRC)] (http://webchat.freenode.net/?channels=angularjs&uio=d4)
 * [AngularJS Google+ Community] (https://plus.google.com/u/0/communities/115368820700870330756)
 * [reddit] (http://www.reddit.com/r/angularjs)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angularjs Course">Angularjs Course</a>
 
 ## General Topics
 * [AngularJS Cheat Sheet] (http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 * [What stumped me about AngularJS] (http://www.peterbe.com/plog/what-stumped-me-about-angularjs)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angular.js Training">Angular.js Training</a>
 * [Lazy Loading In AngularJS] (http://ify.io/lazy-loading-in-angularjs/)
 * [HashKeyCopier - An AngularJS Utility Class For Merging Cached And Live Data] (http://www.bennadel.com/blog/2472-HashKeyCopier-An-AngularJS-Utility-Class-For-Merging-Cached-And-Live-Data.htm)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angular.js Training">Angular.js Training</a>
 * [Exploring Directives, $scope, DOM Rendering, And Timing In AngularJS] (http://www.bennadel.com/blog/2444-Exploring-Directives-scope-DOM-Rendering-And-Timing-In-AngularJS.htm)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angular.js Training">Angular.js Training</a>
 * [Applying A Cached Response To An AngularJS Resource] (http://www.bennadel.com/blog/2432-Applying-A-Cached-Response-To-An-AngularJS-Resource.htm)
-* [Angularytics: The solution to tracking page views and events in a SPA with AngularJS] (http://www.blogeek.com.ar/2013/06/03/angularytics-the-solution-to-tracking-page-views-and-events-in-a-spa-with-angularjs/)
+* [Angularytics: The solution to tracking page views and events in a SPA with AngularJS]
+* (http://www.blogeek.com.ar/2013/06/03/angularytics-the-solution-to-tracking-page-views-and-events-in-a-spa-with-angularjs/)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angularjs Online Course">Angularjs Online Course</a> 
 * [Sharing Data, State and Models on AngularJS: Alternatives, comparison and my solution] (http://www.blogeek.com.ar/2013/05/01/sharing-data-state-on-angularjs-alternatives-comparison-and-my-solution/)
 * [Angular.js and IE8 caching] (http://www.jefclaes.be/2013/06/angularjs-and-ie8-caching.html)
 * [HTML5 local storage with Angular JS] (http://amitavroy.com/justread/content/articles/html5-local-storage-angular-js)
 * [Modeling Data and State in Your AngularJS Application] (http://joelhooks.com/blog/2013/04/24/modeling-data-and-state-in-your-angularjs-application/)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angularjs Online Course">Angularjs Online Course</a> 
 * [Code Reuse in AngularJS] (http://www.phase2technology.com/blog/code-reuse-in-angularjs/)
 /dynamically-loading-controllers-and-views-with-angularjs-and-requirejs.aspx)
 * [Sorting by Multiple Fields with Different Sort Orders Using the AngularJS orderby Filter] (http://htmlcssjavascript.com/javascript/sorting-by-multiple-fields-with-different-sort-orders-using-the-angularjs-orderby-filter/)
 * [$http Response Interceptors] (http://blog.brunoscopelliti.com/http-response-interceptors)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angularjs Online Course">Angularjs Online Course</a> 
 * [AngularJS: Advanced Design Patterns & Best Practices] (http://trochette.github.io/Angular-Design-Patterns-Best-Practices/#/intro)
 * [Automatic JSON date parsing with AngularJS] (http://aboutcode.net/2013/07/27/json-date-parsing-angularjs.html)
 * [AngularJS Abstractions: Modules] (http://odetocode.com/blogs/scott/archive/2013/05/01/angularjs-abstractions-modules.aspx)
 * [Mixing Static Content With ngSwitch And ngSwitchWhen In AngularJS] (http://www.bennadel.com/blog/2507-Mixing-Static-Content-With-ngSwitch-And-ngSwitchWhen-In-AngularJS.htm)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angularjs Course in Chennai">Angularjs Course in Chennai</a>
 * [Building large apps with AngularJS] (http://pseudobry.com/building-large-apps-with-angularjs.html)
 * [Error Message Minification with MinErr] (http://kensheedlo.com/2013/08/15/error-message-minification-with-minerr.html)
 * [How to make your AngularJS app work in IE 8] (http://blog-it.hypoport.de/2013/08/24/how-to-make-your-angularjs-app-work-in-ie-8/)
-* [AngularJS Performance Tuning for Long Lists] (http://tech.small-improvements.com/2013/09/10/angularjs-performance-with-large-lists/)
+* [AngularJS Performance Tuning for Long Lists]
+* (http://tech.small-improvements.com/2013/09/10/angularjs-performance-with-large-lists/)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angularjs Course in Chennai">Angularjs Course in Chennai</a>
 * [Responsive Website Using AngularJS] (http://www.innerhtml.com/responsive-website-using-angularjs.html)
 * [Minimizing initialization time in AngularJS] (https://medium.com/p/f8ae57e2cec3)
 * [Kickstart Your AngularJS Development with Yeoman, Grunt and Bower] (http://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/)
 * [Lazy prefetching of AngularJS partials] (http://blog.mgechev.com/2013/10/01/angularjs-partials-lazy-prefetching-strategy-weighted-directed-graph/)
 * [Enhancing AngularJS $log using Decorators] (http://solutionoptimist.com/2013/10/07/enhance-log-using-angularjs-decorators/)
-* [Logging Client-Side Errors With AngularJS And Stacktrace.js] (http://www.bennadel.com/blog/2542-Logging-Client-Side-Errors-With-AngularJS-And-Stacktrace-js.htm)
+* [Logging Client-Side Errors With AngularJS And Stacktrace.js]
+* (http://www.bennadel.com/blog/2542-Logging-Client-Side-Errors-With-AngularJS-And-Stacktrace-js.htm)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angularjs Course in Chennai">Angularjs Course in Chennai</a>
 * [Form Autocomplete and Remember Password with AngularJS] (http://timothy.userapp.io/post/63412334209/form-autocomplete-and-remember-password-with-angularjs)
 * [Optimizing AngularJS: 1200ms to 35ms](http://blog.scalyr.com/2013/10/31/angularjs-1200ms-to-35ms/)
 * [Creating A RequireJS Service For AngularJS Applications] (http://www.bennadel.com/blog/2551-Creating-A-RequireJS-Service-For-AngularJS-Applications.htm)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angularjs Course Online">Angularjs Course Online</a>
 * [Loading AngularJS Components After Your Application Has Been Bootstrapped] (http://www.bennadel.com/blog/2553-Loading-AngularJS-Components-After-Your-Application-Has-Been-Bootstrapped.htm)
 * [Load a module on demand with AngularJS] (http://blog.getelementsbyidea.com/load-a-module-on-demand-with-angularjs/)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angularjs Course Online">Angularjs Course Online</a>
 * [Environment Specific Configuration in AngularJS Using Grunt] (http://newtriks.com/2013/11/29/environment-specific-configuration-in-angularjs-using-grunt/)
 * [What’s the Role of the Server in Single Page Applications (SPAs)?](http://weblogs.asp.net/dwahlin/archive/2014/02/18/what-s-the-role-of-the-server-in-single-page-applications-spas.aspx)
 * [Making Angular.js realtime with Websockets](http://blog.pusher.com/making-angular-js-realtime-with-pusher/)
 * [Rich Object Models and Angular.js] (http://blog.shinetech.com/2014/02/04/rich-object-models-and-angular-js/)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angularjs Course Online">Angularjs Course Online</a>
 * [Rich Object Models and Angular: Identity Maps] (http://blog.shinetech.com/2014/02/28/rich-object-models-and-angular-identity-maps/)
 * [Interceptors in AngularJS and Useful Examples] (http://www.webdeveasy.com/interceptors-in-angularjs-and-useful-examples/)
 * ['Resolve' in AngularJS Routes, Explained as Story](http://www.undefinednull.com/2014/02/17/resolve-in-angularjs-routes-explained-as-story/)
 * [Get Your Hands Dirty Refactoring in AngularJS] (http://blog.safaribooksonline.com/2014/04/08/refactoring-angularjs-get-hands-filthy/)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angularjs Training Online">Angularjs Training Online</a>
 * [Angular model objects with JavaScript classes] (https://medium.com/opinionated-angularjs/2e6a067c73bc)
 * [The state of angularjs controllers] (http://jonathancreamer.com/the-state-of-angularjs-controllers/)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angularjs Training Online">Angularjs Training Online</a>
 * [How to use ngMessages in AngularJS] (http://www.yearofmoo.com/2014/05/how-to-use-ngmessages-in-angularjs.html)
 * [Digging into Angular’s “Controller as” syntax] (http://toddmotto.com/digging-into-angulars-controller-as-syntax/)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angular.js Online Course">Angular.js Online Course</a>
 * [Everything about custom filters in AngularJS](http://toddmotto.com/everything-about-custom-filters-in-angular-js/)
 * [Understanding Angular’s $scope and $rootScope event system $emit, $broadcast and $on ](http://toddmotto.com/all-about-angulars-emit-broadcast-on-publish-subscribing/)
 * [Frictionless data preloading in AngularJS](http://www.garbl.es/angularjs/preload/2014/06/07/frictionless-data-preloading-in-angularjs/)
 * [Minimal Angular module/syntax approach using an IIFE](http://toddmotto.com/minimal-angular-module-syntax-approach-using-an-iife/)
 * [AngularJS & SEO - finally a piece of cake](https://weluse.de/blog/angularjs-seo-finally-a-piece-of-cake.html)
 * [Best Practices for Building Angular.js Apps](https://medium.com/@dickeyxxx/best-practices-for-building-angular-js-apps-266c1a4a6917)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angular.js Online Course">Angular.js Online Course</a>
 * [Building applications for Firefox OS using AngularJS](https://hacks.mozilla.org/2014/07/building-applications-for-firefox-os-using-angularjs/)
 * [Debugging AngularJS Apps from the Console](http://ionicframework.com/blog/angularjs-console/)
 * [50 Angular.js Examples](http://curran.github.io/screencasts/introToAngular/exampleViewer/#/)
 * [AngularJS DOM manipulation with jqLite](http://baljeetsingh.in/angularjs-dom-manipulation-jqlite-324/)
 * [A Developer’s Guide to Perform SEO on AngularJS Web Apps](http://www.algoworks.com/blog/a-developers-guide-to-perform-seo-on-angularjs-web-apps/)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Course Angularjs">Course Angularjs</a>
 * [The Top 10 Mistakes AngularJS Developers Make](http://www.airpair.com/angularjs/posts/top-10-mistakes-angularjs-developers-make)
 * [How I've Improved My Angular Apps by Banning ng-controller ](http://teropa.info/blog/2014/10/24/how-ive-improved-my-angular-apps-by-banning-ng-controller.html)
 * **[Exploring Angular 1.3 - Angular-Hint](http://blog.thoughtram.io/angularjs/2014/11/06/exploring-angular-1.3-angular-hint.html)
 * [**Exploring Angular 1.3 - Stateful Filters] (http://blog.thoughtram.io/angularjs/2014/11/19/exploring-angular-1.3-stateful-filters.html)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Best Angularjs Course">Best Angularjs Course</a>
 * [**ngEurope: what's new in Angular 1.3?] (http://petermorlion.blogspot.com/2014/10/ngeurope-whats-new-in-angular-13.html)
 * [AngularJS: The Bad Parts](http://larseidnes.com/2014/11/05/angularjs-the-bad-parts/)
 * [The Top 5 Mistakes AngularJS Developers Make Part 3: Overusing $broadcast and $emit](http://csharperimage.jeremylikness.com/2014/12/the-top-5-mistakes-angularjs-developers.html)
@@ -211,12 +243,15 @@ AngularJS Learning Resources
 * [AngularJS’ Internals In Depth](http://www.smashingmagazine.com/2015/01/22/angularjs-internals-in-depth/)
 * [Custom Root URIs For User Profiles with AngularJS](https://medium.com/@internrocket/custom-root-uris-for-user-profiles-with-angularjs-eff3b3458510)
 * [Resources to Master AngularJS](https://netguru.co/blog/resources-to-master-angularjs)
+* a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Online Angularjs Course">Online Angularjs Course</a>
 * [A Preview of Angular 2 and TypeScript in Visual Studio](http://blogs.msdn.com/b/visualstudio/archive/2015/03/12/a-preview-of-angular-2-and-typescript-in-visual-studio.aspx)
 * [11 Tips to Improve AngularJS Performance](http://www.alexkras.com/11-tips-to-improve-angularjs-performance/)
 * [Creating your first Angular 2 app: From authentication to calling an API and everything in between](https://auth0.com/blog/2015/05/14/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Training Angularjs">Training Angularjs</a>
 * [How to do loading spinners, the Angular way.](http://codetunnel.io/how-to-do-loading-spinners-the-angular-way/)
 * [The offline experience (or, saying goodbye to imperative data fetching)](https://medium.com/@plestik/the-offline-experience-or-saying-goodbye-to-imperative-data-fetching-9b2fa487eea7)
 * [Exploring the Angular 1.5 .component() method](http://toddmotto.com/exploring-the-angular-1-5-component-method/)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Online Angularjs Training">Online Angularjs Training</a>
 
 ## Introductions/Beginning AngularJS (also look at the multipart articles)
 
@@ -228,11 +263,13 @@ AngularJS Learning Resources
 * [An Introduction to AngularJS] (http://www.webdesignerdepot.com/2013/04/an-introduction-to-angularjs/)
 * [Building a Web App From Scratch in AngularJS] (http://net.tutsplus.com/tutorials/javascript-ajax/building-a-web-app-from-scratch-in-angularjs/)
 * [AngularJS: An Overview] (http://glennstovall.com/blog/2013/06/27/angularjs-an-overview/)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angular.js Online Training">Angular.js Online Training</a>
 * [AngularJS Tutorial — Build an App Using Directives and Data Binding](http://www.sitepoint.com/angularjs-tutorial-build-an-app-using-directives-and-data-binding/)
 * [AngularJS In 30 Minutes] (http://www.revillwebdesign.com/angularjs-tutorial/)
 * [Kickstart Your AngularJS Development with Yeoman, Grunt and Bower] (http://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/)
 * [Filtering with AngularJS] (http://www.kidsil.net/2013/09/filtering-with-angularjs/)
 * [Ultimate guide to learning AngularJS in one day] (http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Best Angularjs Training">Best Angularjs Training</a>
 * [7 Ways to be Successful with AngularJS] (http://learnangularjs.net/2013/10/24/7-ways-to-be-successful-with-angularjs/)
 * [Creating a Single Page Todo App with Node and Angular](http://scotch.io/tutorials/javascript/creating-a-single-page-todo-app-with-node-and-angular)
 * [Learn AngularJS With These 5 Practical Examples] (http://tutorialzine.com/2013/08/learn-angularjs-5-examples)
@@ -242,6 +279,7 @@ AngularJS Learning Resources
 * [Picking Up Angular, build a twitter-like application](https://github.com/deontologician/pipr/blob/master/tut.org)
 * [Exception Handling in an AngularJS Web Application] (http://blog.loadimpact.com/2014/06/03/exception-handling-in-an-angularjs-web-application-tutorial/)
 * [AngularJS 101: From Zero to Angular in Seconds] (http://www.pubnub.com/blog/angularjs-101-from-zero-to-angular-in-seconds/)
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Best Angular.js Course">Best Angular.js Course</a>
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](http://www.airpair.com/angularjs)
 * [Thinkster: A Better Way to Learn AngularJS](https://thinkster.io/a-better-way-to-learn-angularjs/)
 * [Breaking Down AngularJS to Smaller Components](https://medium.com/@srph/breaking-down-angularjs-to-smaller-components-f2ab70a104d0)
